@@ -3,6 +3,7 @@
 #include<conio.h>
 void main()
 {
-printf("hello world");
+printf("hello world ");
+printf("welcome to github")
 }
 getch();
